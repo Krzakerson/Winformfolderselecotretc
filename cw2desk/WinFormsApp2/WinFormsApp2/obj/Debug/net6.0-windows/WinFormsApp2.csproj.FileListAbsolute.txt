@@ -1,0 +1,68 @@
+G:\Michał_Żak_3tip\cw2desk\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.exe
+G:\Michał_Żak_3tip\cw2desk\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.deps.json
+G:\Michał_Żak_3tip\cw2desk\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.runtimeconfig.json
+G:\Michał_Żak_3tip\cw2desk\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.dll
+G:\Michał_Żak_3tip\cw2desk\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.pdb
+G:\Michał_Żak_3tip\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+G:\Michał_Żak_3tip\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.Form1.resources
+G:\Michał_Żak_3tip\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+G:\Michał_Żak_3tip\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Michał_Żak_3tip\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+G:\Michał_Żak_3tip\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfo.cs
+G:\Michał_Żak_3tip\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+G:\Michał_Żak_3tip\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.dll
+G:\Michał_Żak_3tip\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\refint\WinFormsApp2.dll
+G:\Michał_Żak_3tip\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.pdb
+G:\Michał_Żak_3tip\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.genruntimeconfig.cache
+G:\Michał_Żak_3tip\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\ref\WinFormsApp2.dll
+D:\Projekty szkola\Desktopowe\cw2desk\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.exe
+D:\Projekty szkola\Desktopowe\cw2desk\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.deps.json
+D:\Projekty szkola\Desktopowe\cw2desk\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.runtimeconfig.json
+D:\Projekty szkola\Desktopowe\cw2desk\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.dll
+D:\Projekty szkola\Desktopowe\cw2desk\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.pdb
+D:\Projekty szkola\Desktopowe\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+D:\Projekty szkola\Desktopowe\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.Form1.resources
+D:\Projekty szkola\Desktopowe\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+D:\Projekty szkola\Desktopowe\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekty szkola\Desktopowe\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+D:\Projekty szkola\Desktopowe\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfo.cs
+D:\Projekty szkola\Desktopowe\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+D:\Projekty szkola\Desktopowe\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.dll
+D:\Projekty szkola\Desktopowe\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\refint\WinFormsApp2.dll
+D:\Projekty szkola\Desktopowe\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.pdb
+D:\Projekty szkola\Desktopowe\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.genruntimeconfig.cache
+D:\Projekty szkola\Desktopowe\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\ref\WinFormsApp2.dll
+E:\Michał_Żak_3tip\cw2desk\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.exe
+E:\Michał_Żak_3tip\cw2desk\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.deps.json
+E:\Michał_Żak_3tip\cw2desk\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.runtimeconfig.json
+E:\Michał_Żak_3tip\cw2desk\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.dll
+E:\Michał_Żak_3tip\cw2desk\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.pdb
+E:\Michał_Żak_3tip\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+E:\Michał_Żak_3tip\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.Form1.resources
+E:\Michał_Żak_3tip\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+E:\Michał_Żak_3tip\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Michał_Żak_3tip\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+E:\Michał_Żak_3tip\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfo.cs
+E:\Michał_Żak_3tip\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+E:\Michał_Żak_3tip\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.dll
+E:\Michał_Żak_3tip\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\refint\WinFormsApp2.dll
+E:\Michał_Żak_3tip\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.pdb
+E:\Michał_Żak_3tip\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.genruntimeconfig.cache
+E:\Michał_Żak_3tip\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\ref\WinFormsApp2.dll
+C:\Users\michz\source\repos\Winformfolderselecotretc\cw2desk\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.exe
+C:\Users\michz\source\repos\Winformfolderselecotretc\cw2desk\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.deps.json
+C:\Users\michz\source\repos\Winformfolderselecotretc\cw2desk\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\michz\source\repos\Winformfolderselecotretc\cw2desk\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.dll
+C:\Users\michz\source\repos\Winformfolderselecotretc\cw2desk\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.pdb
+C:\Users\michz\source\repos\Winformfolderselecotretc\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\michz\source\repos\Winformfolderselecotretc\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.Form1.resources
+C:\Users\michz\source\repos\Winformfolderselecotretc\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\michz\source\repos\Winformfolderselecotretc\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michz\source\repos\Winformfolderselecotretc\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\michz\source\repos\Winformfolderselecotretc\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\michz\source\repos\Winformfolderselecotretc\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\michz\source\repos\Winformfolderselecotretc\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.dll
+C:\Users\michz\source\repos\Winformfolderselecotretc\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\refint\WinFormsApp2.dll
+C:\Users\michz\source\repos\Winformfolderselecotretc\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.pdb
+C:\Users\michz\source\repos\Winformfolderselecotretc\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\michz\source\repos\Winformfolderselecotretc\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\ref\WinFormsApp2.dll
