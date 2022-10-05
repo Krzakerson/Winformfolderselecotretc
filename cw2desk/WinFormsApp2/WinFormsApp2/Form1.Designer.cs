@@ -44,6 +44,7 @@
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
+            this.openMusicFormToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
@@ -112,7 +113,8 @@
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.selectFolderToolStripMenuItem,
             this.selectFileToolStripMenuItem,
-            this.clearRichtextboxesToolStripMenuItem});
+            this.clearRichtextboxesToolStripMenuItem,
+            this.openMusicFormToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(1080, 24);
@@ -192,6 +194,13 @@
             this.label5.TabIndex = 14;
             this.label5.Text = "label5";
             // 
+            // openMusicFormToolStripMenuItem
+            // 
+            this.openMusicFormToolStripMenuItem.Name = "openMusicFormToolStripMenuItem";
+            this.openMusicFormToolStripMenuItem.Size = new System.Drawing.Size(108, 20);
+            this.openMusicFormToolStripMenuItem.Text = "OpenMusicForm";
+            this.openMusicFormToolStripMenuItem.Click += new System.EventHandler(this.openMusicFormToolStripMenuItem_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
@@ -239,5 +248,6 @@
         private DataGridView dataGridView1;
         private Label label4;
         private Label label5;
+        private ToolStripMenuItem openMusicFormToolStripMenuItem;
     }
 }

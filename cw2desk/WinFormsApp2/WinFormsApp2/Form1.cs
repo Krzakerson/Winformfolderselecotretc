@@ -230,6 +230,10 @@ namespace WinFormsApp2
 
         }
 
-       
+        private void openMusicFormToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MusicForm musicForm = new MusicForm();
+            musicForm.ShowDialog();
+        }
     }
 }
