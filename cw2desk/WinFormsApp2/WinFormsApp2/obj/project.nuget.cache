@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "tBUtPRd1bwqgze5FjTJFXacIrZpttegXlEm8Msj6dGmaBkx5dDN7mU3z89oWYU/6c6M9iAbF2BrbZnDahNZlhw==",
+  "dgSpecHash": "O30p7CPMkBU2wUupbcRK8hYyhTf9pv98LsKnAOrZjEM/eLnArFJn/7l69tJyDh0JKjIMzlrTmDOgAVHyo197tw==",
   "success": true,
   "projectFilePath": "C:\\Users\\michz\\source\\repos\\Winformfolderselecotretc\\cw2desk\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\michz\\.nuget\\packages\\guna.ui2.winforms\\2.0.3.5\\guna.ui2.winforms.2.0.3.5.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Guna.UI2.WinForms 2.0.3.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Guna.UI2.WinForms",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
 }
