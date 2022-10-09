@@ -62,13 +62,15 @@ namespace WinFormsApp2
            
         }
 
-        private void pictureBox1_Click(object sender, EventArgs e)
+        public void pictureBox1_Click(object sender, EventArgs e)
         {
             OpenFileDialog ofd = new OpenFileDialog();
+            ofd.Filter = "Mp3 Files|*.mp3";
             if (ofd.ShowDialog() == DialogResult.OK)
             {
                 
                 Mp3Lib.Mp3File mp3File = new Mp3Lib.Mp3File(ofd.FileName);
+                string filename = ofd.FileName;
                 string artist = mp3File.TagHandler.Artist; 
                 string album = mp3File.TagHandler.Album;
                 string title = mp3File.TagHandler.Title;
@@ -86,7 +88,7 @@ namespace WinFormsApp2
                 timer1.Start();
 
               
-
+               
             }
             else
             {
@@ -130,6 +132,26 @@ namespace WinFormsApp2
             player.controls.stop();
         }
 
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            
+        }
+
+        private void button2_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            
+        }
+
         private void pictureBox5_Click(object sender, EventArgs e)
         {
             player.settings.volume = 0;
@@ -166,7 +188,7 @@ namespace WinFormsApp2
             //}
         }
 
-        private void button1_Click_1(object sender, EventArgs e)
+        public void button1_Click_1(object sender, EventArgs e)
         {
             //OpenFileDialog ofd2 = new OpenFileDialog();
             //ofd2.Multiselect = true;
