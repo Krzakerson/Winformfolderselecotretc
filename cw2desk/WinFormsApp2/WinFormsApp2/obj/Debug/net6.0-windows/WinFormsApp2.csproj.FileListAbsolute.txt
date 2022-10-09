@@ -72,3 +72,7 @@ C:\Users\michz\source\repos\Winformfolderselecotretc\cw2desk\WinFormsApp2\WinFor
 C:\Users\michz\source\repos\Winformfolderselecotretc\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.ResolveComReference.cache
 C:\Users\michz\source\repos\Winformfolderselecotretc\cw2desk\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\Guna.UI2.dll
 C:\Users\michz\source\repos\Winformfolderselecotretc\cw2desk\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CopyComplete
+C:\Users\michz\source\repos\Winformfolderselecotretc\cw2desk\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Users\michz\source\repos\Winformfolderselecotretc\cw2desk\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\Id3Lib.dll
+C:\Users\michz\source\repos\Winformfolderselecotretc\cw2desk\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\Mp3Lib.dll
+C:\Users\michz\source\repos\Winformfolderselecotretc\cw2desk\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\Utils.dll

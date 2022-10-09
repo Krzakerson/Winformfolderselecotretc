@@ -22,6 +22,22 @@
 
   <ItemGroup>
     <PackageReference Include="Guna.UI2.WinForms" Version="2.0.3.5" />
+    <PackageReference Include="System.Text.Encoding.CodePages" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ICSharpCode.SharpZipLib">
+      <HintPath>..\..\..\..\..\..\Desktop\folderfordll\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Id3Lib">
+      <HintPath>..\..\..\..\..\..\Desktop\folderfordll\Id3Lib.dll</HintPath>
+    </Reference>
+    <Reference Include="Mp3Lib">
+      <HintPath>..\..\..\..\..\..\Desktop\folderfordll\Mp3Lib.dll</HintPath>
+    </Reference>
+    <Reference Include="Utils">
+      <HintPath>..\..\..\..\..\..\Desktop\folderfordll\Utils.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
   <ItemGroup>

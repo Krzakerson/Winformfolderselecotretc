@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "O30p7CPMkBU2wUupbcRK8hYyhTf9pv98LsKnAOrZjEM/eLnArFJn/7l69tJyDh0JKjIMzlrTmDOgAVHyo197tw==",
+  "dgSpecHash": "QvL4JALaqSILUCQR9L6ul8Q77cNqmXF0Z4gBR6X1u/NNnFcdOTXAyB7Jjtf7Onr/8n7iBiphWi45MnJagmYRpg==",
   "success": true,
   "projectFilePath": "C:\\Users\\michz\\source\\repos\\Winformfolderselecotretc\\cw2desk\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\michz\\.nuget\\packages\\guna.ui2.winforms\\2.0.3.5\\guna.ui2.winforms.2.0.3.5.nupkg.sha512"
+    "C:\\Users\\michz\\.nuget\\packages\\guna.ui2.winforms\\2.0.3.5\\guna.ui2.winforms.2.0.3.5.nupkg.sha512",
+    "C:\\Users\\michz\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\michz\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
   ],
   "logs": [
     {

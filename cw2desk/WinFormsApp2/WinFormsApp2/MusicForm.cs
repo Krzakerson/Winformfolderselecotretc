@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.VisualBasic.ApplicationServices;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -7,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using WinFormsApp2.Models;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace WinFormsApp2
@@ -18,8 +20,10 @@ namespace WinFormsApp2
         public MusicForm()
         {
             InitializeComponent();
-            listBox1.Visible = false;
+            dataGridView1.Visible = false;
+            
         }
+        List<TagsFolder> tags = new List<TagsFolder>();
         string[] paths, files;
         private void btnSelect_Click(object sender, EventArgs e)
         {
@@ -58,19 +62,25 @@ namespace WinFormsApp2
             OpenFileDialog ofd = new OpenFileDialog();
             if (ofd.ShowDialog() == DialogResult.OK)
             {
+                
+                Mp3Lib.Mp3File mp3File = new Mp3Lib.Mp3File(ofd.FileName);
+                string artist = mp3File.TagHandler.Artist; 
+                string album = mp3File.TagHandler.Album;
+                string title = mp3File.TagHandler.Title;
+                string year = mp3File.TagHandler.Year;
 
-
-                string name = ofd.FileName;
-
+               
+                tags.Add(new TagsFolder { artist = artist , album = album, title = title, year = year });   
                 player.URL = ofd.FileName;
 
                 player.controls.play();
 
-                label1.Text = "Currently playing " + name;
+                label1.Text = "Currently playing " + title;
                 label1.Font = new Font("", 22, FontStyle.Bold);
                 timer1.Interval = 1;
                 timer1.Start();
 
+              
 
             }
             else
@@ -112,18 +122,22 @@ namespace WinFormsApp2
 
         private void button1_Click_1(object sender, EventArgs e)
         {
-            OpenFileDialog ofd2 = new OpenFileDialog();
-            ofd2.Multiselect = true;
-            if(ofd2.ShowDialog() == DialogResult.OK)
-            {
-                files = ofd2.SafeFileNames;
-                paths = ofd2.FileNames;
-                listBox1.Visible = true;
-                for (int i = 0; i < files.Length; i++)
-                {
-                    listBox1.Items.Add(files[i]);
-                }
-            }
+            //OpenFileDialog ofd2 = new OpenFileDialog();
+            //ofd2.Multiselect = true;
+            //if(ofd2.ShowDialog() == DialogResult.OK)
+            //{
+            //    files = ofd2.SafeFileNames;
+            //    paths = ofd2.FileNames;
+            //    listBox1.Visible = true;
+            //    for (int i = 0; i < files.Length; i++)
+            //    {
+            //        listBox1.Items.Add(files[i]);
+            //    }
+            //}
+            dataGridView1.Visible = true;
+            dataGridView1.DataSource = tags;
+            
+
         }
 
         private void button1_Click(object sender, EventArgs e)

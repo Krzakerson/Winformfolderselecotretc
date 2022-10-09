@@ -8,7 +8,12 @@
     ".NETCoreApp,Version=v6.0": {
       "WinFormsApp2/1.0.0": {
         "dependencies": {
-          "Guna.UI2.WinForms": "2.0.3.5"
+          "Guna.UI2.WinForms": "2.0.3.5",
+          "System.Text.Encoding.CodePages": "6.0.0",
+          "ICSharpCode.SharpZipLib": "0.86.0.518",
+          "Id3Lib": "0.6.0.0",
+          "Mp3Lib": "0.6.0.0",
+          "Utils": "0.5.0.0"
         },
         "runtime": {
           "WinFormsApp2.dll": {}
@@ -19,6 +24,44 @@
           "lib/net40/Guna.UI2.dll": {
             "assemblyVersion": "2.0.3.5",
             "fileVersion": "2.0.3.5"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/6.0.0": {},
+      "System.Text.Encoding.CodePages/6.0.0": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0"
+        }
+      },
+      "ICSharpCode.SharpZipLib/0.86.0.518": {
+        "runtime": {
+          "ICSharpCode.SharpZipLib.dll": {
+            "assemblyVersion": "0.86.0.518",
+            "fileVersion": "0.86.0.518"
+          }
+        }
+      },
+      "Id3Lib/0.6.0.0": {
+        "runtime": {
+          "Id3Lib.dll": {
+            "assemblyVersion": "0.6.0.0",
+            "fileVersion": "0.6.0.0"
+          }
+        }
+      },
+      "Mp3Lib/0.6.0.0": {
+        "runtime": {
+          "Mp3Lib.dll": {
+            "assemblyVersion": "0.6.0.0",
+            "fileVersion": "0.6.0.0"
+          }
+        }
+      },
+      "Utils/0.5.0.0": {
+        "runtime": {
+          "Utils.dll": {
+            "assemblyVersion": "0.5.0.0",
+            "fileVersion": "0.5.0.0"
           }
         }
       }
@@ -36,6 +79,40 @@
       "sha512": "sha512-nd6IAGX4u+sCx9i6PeBfkb6Y+xoayIsoMhndlJoN1L5kE6QbYjDMSHiF+9/nkFhcKx+eNaXzemyKbCY4W7lBEA==",
       "path": "guna.ui2.winforms/2.0.3.5",
       "hashPath": "guna.ui2.winforms.2.0.3.5.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/iUeP3tq1S0XdNNoMz5C9twLSrM/TH+qElHkXWaPvuNOt+99G75NrV0OS2EqHx5wMN7popYjpc8oTjC1y16DLg==",
+      "path": "system.runtime.compilerservices.unsafe/6.0.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    },
+    "System.Text.Encoding.CodePages/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZFCILZuOvtKPauZ/j/swhvw68ZRi9ATCfvGbk1QfydmcXBkIWecWKn/250UH7rahZ5OoDBaiAudJtPvLwzw85A==",
+      "path": "system.text.encoding.codepages/6.0.0",
+      "hashPath": "system.text.encoding.codepages.6.0.0.nupkg.sha512"
+    },
+    "ICSharpCode.SharpZipLib/0.86.0.518": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Id3Lib/0.6.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mp3Lib/0.6.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Utils/0.5.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }
