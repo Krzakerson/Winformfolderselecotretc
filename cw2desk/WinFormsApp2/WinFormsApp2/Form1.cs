@@ -13,7 +13,7 @@ namespace WinFormsApp2
         public Form1()
         {
             InitializeComponent();
-
+            label5.Visible = false; 
            
 
         }
@@ -130,7 +130,7 @@ namespace WinFormsApp2
                 int diffint = Convert.ToInt32(diff);
              
 
-                label5.Text = diffint.ToString();
+                //label5.Text = diffint.ToString();
                 //DateTime[] filecreationarr =  Directory.GetCreationTime(files);
                 
                 List<DateTime> foldersdates = new List<DateTime>();

@@ -1,10 +1,13 @@
-﻿using Microsoft.VisualBasic.ApplicationServices;
+﻿using Microsoft.VisualBasic;
+using Microsoft.VisualBasic.ApplicationServices;
+using Mp3Lib;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -24,6 +27,8 @@ namespace WinFormsApp2
             
         }
         List<TagsFolder> tags = new List<TagsFolder>();
+        List<TagsFolder> tags2 = new List<TagsFolder>();
+        string[] artists, albums, titles, years;
         string[] paths, files;
         private void btnSelect_Click(object sender, EventArgs e)
         {
@@ -115,9 +120,50 @@ namespace WinFormsApp2
             player.controls.play();
         }
 
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void MusicForm_Load(object sender, EventArgs e)
+        {
+            player.controls.stop();
+        }
+
         private void pictureBox5_Click(object sender, EventArgs e)
         {
             player.settings.volume = 0;
+        }
+
+        private void pictureBox6_Click(object sender, EventArgs e)
+        {
+            player.controls.stop();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            //OpenFileDialog dlg = new OpenFileDialog();
+            //dlg.Multiselect = true;
+            //if(dlg.ShowDialog() == DialogResult.OK)
+            //{
+            //    files = dlg.SafeFileNames;
+            //    paths = dlg.FileNames;
+            //    Mp3Lib.Mp3File mp3File = new Mp3Lib.Mp3File(dlg.FileName);
+               
+                
+
+            //    listBox1.Visible = true;
+            //    for (int i = 0; i < files.Length; i++)
+            //    {
+            //        artists[i] = mp3File.TagHandler.Artist[i].ToString();
+            //        albums[i] = mp3File.TagHandler.Album[i].ToString();
+            //        titles[i] = mp3File.TagHandler.Title[i].ToString();
+            //        years[i] = mp3File.TagHandler.Year[i].ToString();
+            //        tags2.Add(new TagsFolder { artist = artists[i], album = albums[i], title = titles[i], year = years[i] });
+            //        dataGridView1.DataSource = tags2;
+            //    }
+                
+            //}
         }
 
         private void button1_Click_1(object sender, EventArgs e)
